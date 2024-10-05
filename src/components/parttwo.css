@@ -1,0 +1,25 @@
+.two {
+    font-size: 25px;
+    font-family: roboto;
+    margin-left: 60px;
+    color: rgb(29, 127, 207);
+    margin-top: 50px;
+    margin-bottom: 20px; /* Adjust this value based on your preference */
+    
+}
+.card{
+
+
+    font-size:20px;
+    font-family:roboto;
+    color: rgb(34, 20, 177);
+
+
+}
+.carda{
+
+    font-size:20px;
+    color: rgb(68, 61, 56);
+
+}
+
